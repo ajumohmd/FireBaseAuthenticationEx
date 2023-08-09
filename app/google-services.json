@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162693714859",
+    "project_id": "fir-authenticationex-da56d",
+    "storage_bucket": "fir-authenticationex-da56d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162693714859:android:9b956aed415fabc30cf8ee",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthenticationex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162693714859-p6u68gh658vb442qdnc3m3ocp89h52pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DEcJXUPR4XzeCYHDUB2aJgOavPmhmKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162693714859-2ku1g2b2kf7b44oq7lp9al8v9sr5j823.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
